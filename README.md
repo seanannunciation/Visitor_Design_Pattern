@@ -1,1 +1,0 @@
-# Visitor_Design_Pattern
